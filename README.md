@@ -32,8 +32,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 https://trakteer.id/hendrawahyut/tip
 
 ## Jika terjadi error' harap hub kontak di bawah
-1. Telegram : https://t.me/HendraWahyuT
-2. Wa  : https://wa.me/+6287832060706
+1. Telegram : https://t.me/my
+2. Wa  : https://wa.me/
 
 ## Mengubah perizinan root dan mengganti password root
 ```html
